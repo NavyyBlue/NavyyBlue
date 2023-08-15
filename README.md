@@ -5,7 +5,7 @@
 
 ## About me
 - 👨‍🎓 Student of the National University of San Marcos
-- 📲 Mobile developer
+- 📲 Mobile developer | Full Stack 
 - 💻 Software engineer
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
