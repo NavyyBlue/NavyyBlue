@@ -8,9 +8,8 @@
 - 📲 Mobile developer | Full Stack 
 - 💻 Software engineer
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/NavyyBlue">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NavyyBlue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NavyyBlue&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <p><img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=NavyyBlue&theme=algolia&show_icons=true&hide_border=true&count_private=false" alt="NavyyBlue" /></p>
+  <p><img height="180em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=NavyyBlue&theme=algolia&hide_border=true" alt="NavyyBlue" /></p>
+  <p><img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyyBlue&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="NavyyBlue" /></p>
+</div>
